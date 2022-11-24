@@ -1,4 +1,4 @@
-# Pruebas para Sulución Factible
+# Solucion a ejercicios en python
 
 ## Comenzando 🚀
 
